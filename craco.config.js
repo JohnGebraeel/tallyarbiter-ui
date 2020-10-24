@@ -1,5 +1,5 @@
 module.exports = {
-    //Still need to implement antd theming...
+    //Still need to implement proper antd theming...
     /* rules: [
         {
             test: /\.less$/,
